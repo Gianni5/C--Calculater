@@ -1,0 +1,20 @@
+C:\Users\Giovanni\source\repos\Calculater 2\bin\Debug\Calculater 2.exe.config
+C:\Users\Giovanni\source\repos\Calculater 2\bin\Debug\Calculater 2.exe
+C:\Users\Giovanni\source\repos\Calculater 2\bin\Debug\Calculater 2.pdb
+C:\Users\Giovanni\source\repos\Calculater 2\obj\Debug\Calculater 2.csprojAssemblyReference.cache
+C:\Users\Giovanni\source\repos\Calculater 2\obj\Debug\Calculater_2.Form1.resources
+C:\Users\Giovanni\source\repos\Calculater 2\obj\Debug\Calculater_2.Properties.Resources.resources
+C:\Users\Giovanni\source\repos\Calculater 2\obj\Debug\Calculater 2.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\Calculater 2\obj\Debug\Calculater 2.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Calculater 2\obj\Debug\Calculater 2.exe
+C:\Users\Giovanni\source\repos\Calculater 2\obj\Debug\Calculater 2.pdb
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\Calculater 2\bin\Debug\Calculater 2.exe.config
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\Calculater 2\bin\Debug\Calculater 2.exe
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\Calculater 2\bin\Debug\Calculater 2.pdb
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\Calculater 2\obj\Debug\Calculater 2.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\Calculater 2\obj\Debug\Calculater_2.Form1.resources
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\Calculater 2\obj\Debug\Calculater_2.Properties.Resources.resources
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\Calculater 2\obj\Debug\Calculater 2.csproj.GenerateResource.cache
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\Calculater 2\obj\Debug\Calculater 2.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\Calculater 2\obj\Debug\Calculater 2.exe
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\Calculater 2\obj\Debug\Calculater 2.pdb
